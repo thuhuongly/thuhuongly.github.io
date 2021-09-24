@@ -1,0 +1,93 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Little world of little Huong
+email: thelifeisawesome@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Tôi sẽ viết lại những chiêm nghiệm của mình ở blog này.
+  Nếu bạn thấy nó dài và nhiều quá, xin vui lòng bỏ theo dõi, còn tôi thì tôi vẫn sẽ vui lòng viết.
+  Đừng bực mình chỉ vì một đứa nói nhiều, nó làm bạn đang mệt lại còn ốm thêm.
+  Một ngày nào đó, khi bạn chán chán và nhớ đến tôi, nếu blog vẫn còn, bạn có thể quay lại và mọi thứ vẫn còn nguyên đó để bạn đọc.
+  Tôi chỉ mong rằng những gì tôi viết ra đâu đó sẽ để lại một nụ cười trên môi bạn khi những dòng chữ đã hết.
+  Vì những người tôi từng gặp, khi nhớ ai tôi sẽ chỉ nhớ nụ cười của họ, đó là khi họ đẹp nhất trong tôi :).
+  ----------------------------------------------
+  I will write down my reflections in this blog.
+  If you find it too long and too much, please unfollow, and I will still be happy to write.
+  Don't get upset just because of me writing too much, it won't help you at all.
+  One day, when you get bored and miss me, if the blog is still around, you can come back and everything is still there for you to read.
+  I just hope that what I write somehow will leave a smile on your lips in the end.
+  Because of all those people I met, when I think about them I will only remember their smile, that's when they are the most beautiful for me :)
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: huonglt1190
+github_username:  huonglythu
+
+author:
+  name     : "Tâm Bình"
+  avatar   : "/assets/images/huong.jpeg"
+  bio      : "A newbie in this awesome planet"
+  location : "Somewhere, Planet Earth"
+
+# Build settings
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+breadcrumbs: true
+include: ["_pages"]
+paginate: 5
+paginate_path: /page:num/
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
