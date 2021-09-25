@@ -150,6 +150,7 @@
       
         <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
           <a href="/" itemprop="item"><span itemprop="name">Home</span></a>
+
           <meta itemprop="position" content="1" />
         </li>
         <span class="sep">/</span>
@@ -210,22 +211,22 @@
   
 
 
-<div itemscope itemtype="https://schema.org/Person">
+<div itemscope itemtype="https://schema.org/Person" class="h-card">
 
   
     <div class="author__avatar">
-      
-        <img src="/assets/images/huong.jpeg" alt="Tâm Bình" itemprop="image">
-      
+      <a href="/">
+        <img src="/assets/images/huong.jpeg" alt="Tâm Bình" itemprop="image" class="u-photo">
+      </a>
     </div>
   
 
   <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="/" itemprop="url">Tâm Bình</a>
+    </h3>
     
-      <h3 class="author__name" itemprop="name">Tâm Bình</h3>
-    
-    
-      <div class="author__bio" itemprop="description">
+      <div class="author__bio p-note" itemprop="description">
         <p>A newbie in this awesome planet</p>
 
       </div>
@@ -237,7 +238,7 @@
     <ul class="author__urls social-icons">
       
         <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
-          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Somewhere, Planet Earth</span>
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name" class="p-locality">Somewhere, Planet Earth</span>
         </li>
       
 
@@ -293,7 +294,7 @@
 
       <!--
   <li>
-    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer me">
       <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
     </a>
   </li>
@@ -301,13 +302,12 @@
     </ul>
   </div>
 </div>
-
   
   </div>
 
 
 
-  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Cánh chim trời">
     <meta itemprop="description" content="“Những cánh hồng sân ngoài một chiều mây bay gió lay tóc thề người đang còn thơ bé">
     <meta itemprop="datePublished" content="2018-05-14T22:13:38+02:00">
@@ -316,8 +316,10 @@
     <div class="page__inner-wrap">
       
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">Cánh chim trời
-</h1>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="/blog/2018/05/14/canh-chim-troi.html" class="u-url" itemprop="url">Cánh chim trời
+</a>
+          </h1>
           
 
   <p class="page__meta">
@@ -342,7 +344,7 @@
         </header>
       
 
-      <section class="page__content" itemprop="text">
+      <section class="page__content e-content" itemprop="text">
         
         <p>“Những cánh hồng sân ngoài một chiều mây bay gió lay tóc thề người đang còn thơ bé</p>
 
@@ -364,8 +366,7 @@
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2018-05-14T22:13:38+02:00">May 14, 2018</time></p>
-
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2018-05-14T22:13:38+02:00">May 14, 2018</time></p>
 
       </footer>
 
@@ -399,7 +400,7 @@
   
   
     <div class="page__related">
-      <h4 class="page__related-title">You May Also Enjoy</h4>
+      <h2 class="page__related-title">You May Also Enjoy</h2>
       <div class="grid__wrapper">
         
           
@@ -563,7 +564,6 @@
   
   
 </div>
-
     </div>
 
     

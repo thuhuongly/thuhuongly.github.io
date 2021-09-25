@@ -46,9 +46,15 @@ author:
   location : "Somewhere, Planet Earth"
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-gist
+  - jemoji
+  - jekyll-include-cache
 breadcrumbs: true
 include: ["_pages"]
 paginate: 5
