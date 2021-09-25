@@ -64,4 +64,28 @@ var store = [{
         "tags": [],
         "url": "/blog/2018/08/22/nhat-ky-nhung-ngay-song-tinh-thuc.html",
         "teaser": null
+      },{
+        "title": "Tuỳ duyên - Người biết sống một mình",
+        "excerpt":"Hồi nhỏ hình như ai cũng đã từng ước mơ lớn lên mình sẽ trở nên thật đẹp đẽ, hấp dẫn để có nhiều người theo đuổi. Tôi cũng thế, có điều lớn lên thì giấc mơ vẫn chỉ là giấc mơ và sự thật thì không được đẹp như...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2018/10/15/tuy-duyen.html",
+        "teaser": null
+      },{
+        "title": "Món quà ngày nhà giáo",
+        "excerpt":"Trưa nay tôi hỏi bạn đồng nghiệp ở Bỉ có ngày nhà giáo Bỉ không? Nó bảo: “No, why do we need a special day to give presents for someone who just does his job?”. Tóm lại nó không quan tâm ngày nhà giáo, ngày kỹ sư, ngày nhà báo,...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2018/11/20/ngay-nha-giao.html",
+        "teaser": null
+      },{
+        "title": "Chuyện kẹo",
+        "excerpt":"Cuối giờ chiều bác lao công đến dọn văn phòng, qua chỗ mình bác thảy cho mình cái kẹo. Ngạc nhiên thấy vui và một kí ức nhỏ tràn về. Hồi lớp 1, cô giáo chủ nhiệm nổi tiếng nghiêm khắc, cô hay cầm một cái thước kẻ gỗ dài...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2018/11/22/chuyen-keo.html",
+        "teaser": null
+      },{
+        "title": "Vấn đề là chả có vấn đề gì cả",
+        "excerpt":"Tôi nhớ có một lần nghe thầy Pháp Dung giảng, thầy nói Sư Ông thường bảo: “Có bùn thì mới có sen”. Có một ngày tuyệt vọng thầy đến hỏi Sư Ông: “Nhưng con không muốn có bùn, tại sao phải có bùn thì mới được.” Sư Ông chỉ nhìn...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2018/12/05/bun.html",
+        "teaser": null
       }]

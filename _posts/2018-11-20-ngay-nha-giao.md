@@ -1,0 +1,11 @@
+---
+title:  "Món quà ngày nhà giáo"
+date:   2018-11-20 22:13:38 +0200
+categories: blog
+---
+Trưa nay tôi hỏi bạn đồng nghiệp ở Bỉ có ngày nhà giáo Bỉ không? Nó bảo: "No, why do we need a special day to give presents for someone who just does his job?". Tóm lại nó không quan tâm ngày nhà giáo, ngày kỹ sư, ngày nhà báo, ngày thầy thuốc... (hình như code nó không chạy được ngày hôm nay nên rất khó ở thì phải :v )  
+Hồi tôi học cấp 1 nhà tôi khá nghèo, chẳng mấy khi có quà đắt tiền hay phong bì cho các thầy cô giáo. Năm tôi học lớp 1 nhà tôi xây nhà xong làm tân gia nên mọi người tặng vô vàn các bộ ấm chén. Từ đó năm nào tôi cũng trèo lên kho lấy 1 bộ gói ghém cần thận rồi đem đi tặng các cô (con xin lỗi vì có cô con tặng ấm bộ này, chén bộ kia ạ :"> ). Từ hồi cấp 1 đến cấp 2 tôi vẫn biết có cô nếu không tặng sẽ bị ghi sổ hay bị trù dập nhưng thương bố mẹ tôi chẳng dám xin nhiều. Nghĩ lại thì thật ra nhiều thầy cô cũng nghèo mà (còn cô nào không nghèo thì con chịu :P). Vậy nên hồi đó tôi chỉ gắng học, gắng là đứa bé ngoan để các thầy cô khỏi buồn thôi.  
+Hôm nay tôi ngồi nhớ lại gương mặt những người thầy cô đã để lại ấn tượng sâu sắc trong suốt quãng đời chính thức tính là đi học của tôi. Họ là những người truyền cảm hứng cho tôi từ lúc còn là đứa bé con để không chỉ ở trường mà ngay khi về nhà có hôm vứt cặp ngồi vào bàn học tiếp. Họ dạy cho tôi khám phá thế giới để thấy việc học không là một thứ trách nhiệm của trẻ con hay một cơn ác mộng đáng sợ hãi. Có thầy cô coi tôi như con, như cháu, như em hay như bạn của họ. Có thể đó là lý do vì sao ở Việt Nam tình cảm thầy trò nó khiến người ta thấy xúc động và đáng quý hơn nơi khác.  
+Nhân ngày 20/11 con xin cảm ơn các thầy cô thật nhiều, có những ơn nghĩa con biết chẳng bao giờ đền đáp hết được. Con mong các thầy cô đã nghỉ hưu có nhiều sức khoẻ còn những thầy cô vẫn đang làm việc thì sẽ luôn là những nhà giáo hạnh phúc trên bục giảng vì hạnh phúc của các thầy cô luôn là hạnh phúc của những học sinh, sinh viên chúng con ạ.  
+![ThayCo](/assets/images/thayco.jpeg "Thầy cô giáo hạnh phúc")  
+Ảnh: Thư pháp sư ông Làng Mai (lấy trên trang langmai.org)
