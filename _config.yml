@@ -46,7 +46,7 @@ author:
   location : "Somewhere, Planet Earth"
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
 breadcrumbs: true
