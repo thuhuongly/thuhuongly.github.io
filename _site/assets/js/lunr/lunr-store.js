@@ -88,4 +88,22 @@ var store = [{
         "tags": [],
         "url": "/blog/2018/12/05/bun.html",
         "teaser": null
+      },{
+        "title": "Chạy đi đâu?",
+        "excerpt":"Có nhiều người mỗi khi thấy khó chịu hay có nỗi khổ gì trong lòng là họ chạy đi mua sắm. Họ thấy mình còn thiếu cái này, cái kia. Mua sắm có thể làm mình thấy vui vẻ được trong chốc lát vì một món đồ mới. Người khác...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/01/08/chay-di-dau.html",
+        "teaser": null
+      },{
+        "title": "Họ chạy đi đâu?",
+        "excerpt":"Bài trước mình viết có hỏi bạn chạy đi đâu khi thấy khó chịu, bất an. Nhưng cuộc sống thì có rất nhiều niềm vui và nhiều khi là bạn chả có vấn đề gì để phải khổ cả. Nếu có may mắn được như vậy lúc này thì bạn...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/01/08/ho-chay-di-dau.html",
+        "teaser": null
+      },{
+        "title": "Về nhà",
+        "excerpt":"Một ngày cuối tháng 12/2018, tôi lấy xe máy chở mẹ vào một ngôi chùa ở cách nhà hơn 20km. Khoảng 6 năm về trước, tôi đến tham dự buổi ra mắt sách “Một mình ở Châu Âu” của chị Phan Việt. Khi nghe chị chia sẻ rằng hiện chị...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/01/10/ve-nha.html",
+        "teaser": null
       }]
