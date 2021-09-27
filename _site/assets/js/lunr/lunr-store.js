@@ -106,4 +106,46 @@ var store = [{
         "tags": [],
         "url": "/blog/2019/01/10/ve-nha.html",
         "teaser": null
+      },{
+        "title": "Tâm Diệu Bình",
+        "excerpt":"Đấy là pháp danh tôi được đặt khi quy y và thọ năm giới. Nghe cũng được nhưng ban đầu tôi thấy nó cứ thô thô làm sao. Sư cô Tác Nghiêm, người cứ mỗi khi cười là tít mắt lên trông rất hiền, là người chọn tên cho tôi....","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/01/16/tam-dieu-binh.html",
+        "teaser": null
+      },{
+        "title": "Sống bằng niềm tin à?",
+        "excerpt":"Tôi nhớ nhiều người hay hỏi câu đấy khi họ thấy bất lực trong một việc gì đó hay đơn giản chỉ là một câu đùa khi hết tiền. Liệu có ai sống được bằng niềm tin không? Tôi nghĩ là có, các tu sĩ là một điển hình. Họ...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/01/17/song-bang-niem-tin.html",
+        "teaser": null
+      },{
+        "title": "Trẻ con và người lớn",
+        "excerpt":"Rhino là một đứa trẻ con. Tôi nghĩ vậy. Mặc dù cậu hơn tôi 4 tuổi. Rhino là kiến trúc sư phần mềm cho một công ty lớn. Cậu thích toán, triết học, âm nhạc, trò chơi điện tử, chính trị, xem thể thao (chứ không phải là chơi)… Nói...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/01/18/tre-con-nguoi-lon.html",
+        "teaser": null
+      },{
+        "title": "Tài khoản tiết kiệm",
+        "excerpt":"Đọc tiêu đề có lẽ bạn sẽ nghĩ ngay là mình nói đến tiền đúng không? Sáng nay mình mất một lúc lâu ngồi đọc hết facebook của một bạn đang kêu gọi mọi người ủng hộ tiền để cứu vợ bạn ấy. Mình muốn xem đó là facebook giả...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/01/19/tai-khoan-tiet-kiem.html",
+        "teaser": null
+      },{
+        "title": "Phòng tập cho tâm hồn",
+        "excerpt":"Bình thường khi chúng ta thấy cơ thể mình rệu rã ví dụ tự dưng béo ú ra, lưng đau, vai mỏi thì chúng ta sẽ nghĩ có lẽ mình nên tập thể dục. Chúng ta mua thẻ tập gym, đến lớp học yoga, chạy bộ, đi bơi hay đơn...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/01/20/phong-tap-cho-tam-hon.html",
+        "teaser": null
+      },{
+        "title": "Tết này ăn gì?",
+        "excerpt":"Nếu muốn liệt kê một trong những con vật nào sợ đến Tết nhất thì mình nghĩ chắc là con gà. Đêm qua mình vừa ngủ mơ mình rán một con gà rất ngon, vàng rộm nhưng đến lúc định ăn thì không thể nào ăn được. Để mình kể...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/01/28/tet-nay-an-gi.html",
+        "teaser": null
+      },{
+        "title": "Gạo, đậu, thịt, đậu, gạo",
+        "excerpt":"Gạo, đậu, thịt, đậu, gạo Đấy là cái câu tôi cứ lẩm nhẩm trong đầu khi ngồi gói bánh chưng mấy năm trước. Lẩm nhẩm để nhớ không quên. Tôi gói bánh chưng bằng khuôn. Quy trình là đặt lạt, đặt khuôn, xếp lá, đổ gạo, đổ đậu, cho thịt,...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/01/29/gao-dau-thit-dau-gao.html",
+        "teaser": null
       }]

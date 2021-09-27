@@ -1,0 +1,9 @@
+---
+title:  "Trẻ con và người lớn"
+date:   2019-01-18 22:13:38 +0200
+categories: blog
+---
+Rhino là một đứa trẻ con. Tôi nghĩ vậy. Mặc dù cậu hơn tôi 4 tuổi. Rhino là kiến trúc sư phần mềm cho một công ty lớn. Cậu thích toán, triết học, âm nhạc, trò chơi điện tử, chính trị, xem thể thao (chứ không phải là chơi)... Nói chung là không kể hết được những sở thích của cậu. Cậu có một thế giới của riêng mình mà cậu không muốn ai xâm phạm. Cậu dành 5 buổi sáng liên tiếp của kì nghỉ chỉ để lắp mô hình tàu vũ trụ trong phim Chiến tranh giữa những vì sao. Cậu cũng có thể dành cả ngày cuối tuần để tính toán xây một khu vui chơi giải trí ở Bắc Cực. Rhino ít nói nhưng khi động đến vấn đề nào liên quan đến chính trị, triết học thì cậu có thể nói liên miên không hết cho đến khi cậu thấy mình có vẻ nói quá nhiều. Rhino bảo cậu chả nhớ ai bao giờ. Cậu cũng chả nói xấu ai bao giờ vì cậu ít có thời gian để nghĩ về người khác. Tôi từng nghĩ Rhino là đứa vô tâm.  
+Nhưng không hẳn, Rhino ăn thuần chay đã gần 6 năm nay và cậu có ước mơ là lúc nào đó đủ tiền để mua hết số gia súc, gia cầm (mà cậu tính được) cậu đã ăn từ bé cho đến lúc cậu bắt đầu ăn chay rồi đem số động vật đó đến trạm cứu trợ. Rhino bảo tôi đừng cho tiền người ăn xin mà đem tiền đấy đến các tổ chức từ thiện uy tín, họ biết cách để giúp người nghèo hơn tôi. Hàng tháng một khoản tiền lương của Rhino được trích tự động vào một vài tổ chức xã hội mà Rhino chọn.  
+Nếu ở Việt Nam với tầm tuổi và cách sống của Rhino thì chắc chắn nhiều người sẽ nghĩ cậu bị hâm nặng. Tôi thì chỉ nghĩ cậu vẫn là một đứa trẻ chưa lớn hết.  
+Mà tôi nữa, bắt đầu từ khi nào tôi tự cho mình là người lớn nhỉ?
