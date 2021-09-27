@@ -1,5 +1,7 @@
 main:
-  - title: "Blog"
+  - title: "Nghĩ ngợi"
     url: /blog/
-  - title: "About"
+  - title: "Kể chuyện"
+    url: /portfolio/
+  - title: "Xin chào"
     url: /about/

@@ -1,4 +1,22 @@
 var store = [{
+        "title": "Bạn có hiểu tôi và Nhật ký những ngày sống tỉnh thức",
+        "excerpt":"Hàng ngày, mỗi lần mở facebook ra, chưa cần đọc, chỉ cần nhìn tên những người bạn tôi thường có thể đoán là họ sẽ chia sẻ những gì. Anh này sẽ khoe ảnh con, ảnh đồ ăn, ảnh đi du lịch, chị này sẽ phàn nàn về xã hội,...","categories": ["blog"],
+        "tags": [],
+        "url": "/portfolio/2018-08-22-nhat-ky-nhung-ngay-song-tinh-thuc/",
+        "teaser": null
+      },{
+        "title": "Thư gửi mẹ",
+        "excerpt":"Mẹ kính yêu, Hơn 30 năm về trước, mẹ đã sinh ra con trong một ngày mùa đông giá lạnh của Hà Nội. Khi ấy bố đang đi làm rất xa và lúc đó mẹ chỉ hơn con bây giờ có 4 tuổi. Khi con mới được 15 ngày tuổi,...","categories": ["blog"],
+        "tags": [],
+        "url": "/portfolio/2020-09-01-thu-gui-me/",
+        "teaser": null
+      },{
+        "title": "Những năm tháng xứ người",
+        "excerpt":"2016 Mùa xuân 2016, khi tôi đang say sưa, hào hứng với cái luận văn thạc sỹ của mình, tôi nhận được mail từ một chị làm nhân sự từ một công ty ở xa tít mù tắp so với chỗ tôi đang ở. Chỉ nhìn qua công ty làm...","categories": ["blog"],
+        "tags": [],
+        "url": "/portfolio/2021-01-nhung-nam-thang-xu-nguoi/",
+        "teaser": null
+      },{
         "title": "Vì sao tôi ở đây",
         "excerpt":"Tối nay tôi không muốn hay thực chất là tôi sợ mở điện thoại lên, bật wifi và hàng tá tin nhắn; hoặc vô tình đăng nhập vào Facebook rồi tốn hàng giờ ở đó. Lí do là vì tôi không muốn hủy hoại sự bình yên của tâm trí,...","categories": ["blog"],
         "tags": [],
@@ -57,12 +75,6 @@ var store = [{
         "excerpt":"Nice people sometimes are mean.  Mean people sometimes are nice.  Do you see yourself nice or mean?  Can you accept yourself so you can accept others, my dear?  ","categories": ["blog"],
         "tags": [],
         "url": "/blog/2018/08/12/nice-and-mean.html",
-        "teaser": null
-      },{
-        "title": "Bạn có hiểu tôi và Nhật ký những ngày sống tỉnh thức",
-        "excerpt":"Hàng ngày, mỗi lần mở facebook ra, chưa cần đọc, chỉ cần nhìn tên những người bạn tôi thường có thể đoán là họ sẽ chia sẻ những gì. Anh này sẽ khoe ảnh con, ảnh đồ ăn, ảnh đi du lịch, chị này sẽ phàn nàn về xã hội,...","categories": ["blog"],
-        "tags": [],
-        "url": "/blog/2018/08/22/nhat-ky-nhung-ngay-song-tinh-thuc.html",
         "teaser": null
       },{
         "title": "Tuỳ duyên - Người biết sống một mình",
