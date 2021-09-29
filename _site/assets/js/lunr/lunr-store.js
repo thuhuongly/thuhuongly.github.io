@@ -160,4 +160,76 @@ var store = [{
         "tags": [],
         "url": "/blog/2019/01/29/gao-dau-thit-dau-gao.html",
         "teaser": null
+      },{
+        "title": "Ghét",
+        "excerpt":"Ghét theo tiếng Bắc nghĩa là đất bẩn hay tế bào da chết ở trên da mà khi tắm ta kỳ cọ xong nó rơi ra :satisfied:. Đùa thôi chứ tôi đang nghĩ đến một cảm xúc. Người ta vẫn bảo khi ghét ai đó tức là mình đang tự...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/01/30/ghet.html",
+        "teaser": null
+      },{
+        "title": "Bác khoẻ không bác?",
+        "excerpt":"Đấy là câu tôi hỏi lại khi một bác hỏi tôi bao giờ về hẳn, về đi để còn kiếm công ăn việc làm ổn định. Lúc đó trong đầu tôi chỉ nghĩ: “Bẫy đấy, bẫy để hỏi tiếp những câu hỏi mà ai cũng biết là gì đấy.” Và...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/02/01/bac-khoe-khong-bac.html",
+        "teaser": null
+      },{
+        "title": "Bỏ đi",
+        "excerpt":"Sáng thứ 7 nằm ăn vạ đắp chăn ngắm mọi người hối hả đón Tết… trên mạng, chợt có một cái ý nghĩ ùa về. Cái ý nghĩ chả liên quan nhưng nó cứ ám ảnh mình. Có phải chúng ta thi thoảng cứ bị đắm mình trong những kí...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/02/02/bo-di.html",
+        "teaser": null
+      },{
+        "title": "Chiến tranh",
+        "excerpt":"Tôi lớn lên khi đất nước đã hòa bình Nhưng sao bài quốc ca tôi hát lại đầy máu và xác người Lòng hận thù chưa bao giờ dập tắt Bởi vì đâu mà con người lại giết nhau? Nếu tôi lớn lên là một người Trung Quốc Liệu tôi...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/02/13/chien-tranh.html",
+        "teaser": null
+      },{
+        "title": "Tự do",
+        "excerpt":"Tôi nhớ có một ngày một người em hỏi tôi đi du học để làm gì tôi đã trả lời rằng chị đi học làm người tự do. Tôi không hiểu và cũng không nhớ vì sao tôi trả lời như thế lúc đó. Cho đến khi học xong 2...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/02/13/tu-do.html",
+        "teaser": null
+      },{
+        "title": "Lên chùa",
+        "excerpt":"Hồi nhỏ cứ Tết hay tiết thanh minh có ai rủ là tôi lại lên chùa. Chùa với tôi là một nơi đẹp đẹp, lạ lạ, yên tĩnh và là nơi có thể cầu xin may mắn. Vậy thôi, tôi không có cảm tình gì đặc biệt với những người...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/02/17/len-chua.html",
+        "teaser": null
+      },{
+        "title": "Trắng đen",
+        "excerpt":"Có nhiều người thích sự khác biệt, sự khác biệt làm họ nổi bật và thấy mình đặc biệt đến mức đôi khi khiến họ phải gồng mình lên để khác biệt. Tôi không biết tôi chọn sự khác biệt hay sự khác biệt nó chọn tôi. Nó làm tôi...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/02/19/trang-den.html",
+        "teaser": null
+      },{
+        "title": "Yêu thích",
+        "excerpt":"Hôm nay sếp mình bảo một kỹ sư phần mềm tốt phải là một người thích mày mò. Ở công ty có vấn đề gì khó giải quyết thì về nhà phải tự học thêm, tự tìm hiểu, tự đặt những câu hỏi đơn giản thậm chí là ngớ ngẩn...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/02/19/yeu-thich.html",
+        "teaser": null
+      },{
+        "title": "Hai tám - Ba mươi",
+        "excerpt":"Một ngày cuối đông đầu xuân, tôi đến xin ngủ nhờ nhà một gia đình người Việt ở Pháp. Hai bác đã ngoài 70 tuổi, con cái đều đã lớn và ra ở riêng cả. Căn nhà nhỏ xinh nhìn góc nào cũng thấy kỉ niệm. Hai vợ chồng rời...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/02/20/hai-tam-ba-muoi.html",
+        "teaser": null
+      },{
+        "title": "Love freely",
+        "excerpt":"When I told my ex that I love him, he said: “No, you don’t love me”. I was angry. It’s my feelings, my emotions. My immediate reaction at that moment was to ask him: “How can you be so sure about it?” But I didn’t. I choose to look deeply....","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/02/21/love-freely.html",
+        "teaser": null
+      },{
+        "title": "Chú Jo",
+        "excerpt":"Ngày mai là đám tang chú Jo - đồng nghiệp cùng công ty với tôi. Chú mới hơn 50 tuổi, có một cô con gái đang là sinh viên cùng trường tôi học hồi xưa. Gần 2 năm trước chú ngã xe đạp, đấy là một cú ngã rất nghiêm...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/02/22/chu-jo.html",
+        "teaser": null
+      },{
+        "title": "Tập làm văn",
+        "excerpt":"Tôi nhớ hồi lớp 3 học tập làm văn, trang giấy của quyển vở ô ly được kẻ chia làm đôi: một nửa mình viết, một nửa để cô giáo nhận xét. Nhờ chia làm đôi nên bài viết nào nhìn cũng dài hẳn ra và hình như càng dài...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/02/22/tap-lam-van.html",
+        "teaser": null
       }]
