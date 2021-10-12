@@ -1,0 +1,9 @@
+---
+title:  "Dũng cảm để viết"
+date:   2019-02-27 22:13:38 +0200
+categories: blog
+---
+Tôi ước có thật nhiều người đi trước chia sẻ những khó khăn, những cảm xúc không dễ dàng mà họ có trong cuộc đời và cái cách họ vượt qua chúng. Để cho thế hệ sau chúng tôi được học. Dù biết rằng không có một công thức chung nào cho việc giải quyết khó khăn của từng người nhưng ít ra những người đi sau như chúng tôi có một chút đường đi.  
+Chúng ta có rất nhiều giáo lý, có môn đạo đức, có luật pháp, có tôn giáo, có đủ thứ luân lý trong sách vở nhưng nếu được nghe trực tiếp từ câu chuyện thật của một người mình biết, tôi nghĩ vẫn dễ cảm hơn nhiều. Tôi hiểu không phải ai cũng muốn hay cũng đủ dũng cảm để viết ra câu chuyện của mình và nhiều khi dũng cảm thì có những không biết viết ra làm sao.  
+Tôi thích ông Vũ Trọng Phụng bởi vì ông là tác giả của quyển "Làm đĩ" - cái quyển sách mà tôi cho là mang nhiều tình thương và sự giáo dục giới tính trong đó, ông đã dám viết ra nó. Có rất nhiều chuyện từ cái thời của ông mà tôi thấy cho đến bây giờ ở Việt Nam mình vẫn còn nhiều lắm.  
+Dạo gần đây cái thói quen là khi làm việc chán là vào kiểm tra facebook lại mới trở lại với tôi. Và tôi mới phát hiện ra là khi nào không an trong lòng là tôi lại thấy ai cũng có vấn đề, tôi lại có nhu cầu đi bình luận, đi khuyên răn người khác sống sao cho phải. May là tôi dừng được, may là tôi chưa đi nói những lời sáo rỗng. May mà tôi biết mình đang bất an và may là cuộc sống còn có vô vàn điều bình an để kéo tôi lại. Dù sao thì tôi vẫn luôn mong mọi người có nhiều bình an và biết đâu họ sẽ kể cho tôi nghe vì sao họ có được những bình an như vậy :blush:

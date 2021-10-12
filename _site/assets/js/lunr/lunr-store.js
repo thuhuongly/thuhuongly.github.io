@@ -1,4 +1,10 @@
 var store = [{
+        "title": "Chuyện đi xem thế giới nó khác thế nào",
+        "excerpt":"Viết tặng những người bạn của tôi ở Thư Quán Doanh Nhân Đây là câu chuyện về hành trình du học của tôi, một cô gái hết sức bình thường nhưng luôn đấu tranh với bản thân để sống sao không tầm thường (nói to tát vậy thôi chứ đơn...","categories": ["blog"],
+        "tags": [],
+        "url": "/portfolio/2015-02-06-chuyen-di-xem-the-gioi/",
+        "teaser": null
+      },{
         "title": "Bạn có hiểu tôi và Nhật ký những ngày sống tỉnh thức",
         "excerpt":"Hàng ngày, mỗi lần mở facebook ra, chưa cần đọc, chỉ cần nhìn tên những người bạn tôi thường có thể đoán là họ sẽ chia sẻ những gì. Anh này sẽ khoe ảnh con, ảnh đồ ăn, ảnh đi du lịch, chị này sẽ phàn nàn về xã hội,...","categories": ["blog"],
         "tags": [],
@@ -231,5 +237,41 @@ var store = [{
         "excerpt":"Tôi nhớ hồi lớp 3 học tập làm văn, trang giấy của quyển vở ô ly được kẻ chia làm đôi: một nửa mình viết, một nửa để cô giáo nhận xét. Nhờ chia làm đôi nên bài viết nào nhìn cũng dài hẳn ra và hình như càng dài...","categories": ["blog"],
         "tags": [],
         "url": "/blog/2019/02/22/tap-lam-van.html",
+        "teaser": null
+      },{
+        "title": "Ước mong",
+        "excerpt":"Cái câu thành ngữ “Đồng sàng dị mộng” cứ luẩn quẩn trong đầu tôi sáng nay khi nằm đọc hết cái này đến cái kia. Tôi muốn tìm một cái chia sẻ tích cực nhưng không thấy. Hình như có rất nhiều người tự thấy mình cô đơn trong một...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/02/23/uoc-mong.html",
+        "teaser": null
+      },{
+        "title": "Mẹ và bé",
+        "excerpt":"Một em bé 7 tuổi nói với tôi rằng: “Mẹ con hay đánh, hay quát con, mẹ con không thương con, nhiều lúc con chỉ muốn chết quách đi cho rồi”. Ngẫm ra hồi 7 tuổi tôi cũng từng có những suy nghĩ như thế. 7 tuổi có còn là...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/02/25/me-va-be.html",
+        "teaser": null
+      },{
+        "title": "Ghen",
+        "excerpt":"Đó là lúc tôi vừa bước xuống xe buýt chuẩn bị sang đường, tự nhiên hình ảnh quá khứ của một em bé 3 tuổi ùa về. Em bé đó khóc lóc ăn vạ ở vườn hoa đường Thanh Niên không cho mẹ chụp ảnh chung với bố. Em bé...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/02/26/ghen.html",
+        "teaser": null
+      },{
+        "title": "Dũng cảm để viết",
+        "excerpt":"Tôi ước có thật nhiều người đi trước chia sẻ những khó khăn, những cảm xúc không dễ dàng mà họ có trong cuộc đời và cái cách họ vượt qua chúng. Để cho thế hệ sau chúng tôi được học. Dù biết rằng không có một công thức chung...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/02/27/dung-cam-de-viet.html",
+        "teaser": null
+      },{
+        "title": "Gửi Đậu Đậu - cô bạn bị chứng OCD của mình",
+        "excerpt":"Sáng nay mình lại đi làm muộn, đều đặn tuần 2 bữa. Ra khỏi nhà một đoạn rồi mình còn chạy về lại để xem bếp đã tắt chưa, lò sưởi có còn bật không nữa. Mọi thứ đã yên ổn, mình yên tâm ra khỏi nhà. 5 phút sau...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/02/28/thu-gui-dau-dau.html",
+        "teaser": null
+      },{
+        "title": "Sợ",
+        "excerpt":"Hình như ai cũng có một nỗi sợ nào đó ở trong lòng. Sợ mất người thân, sợ cô đơn, sợ nghèo, sợ cuộc đời vô ích, sợ tương lai, sợ thằn lằn… Rất nhiều nỗi sợ vớ vẩn mà nói ra ai cũng phải buồn cười, ví dụ như...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/03/01/so.html",
         "teaser": null
       }]
