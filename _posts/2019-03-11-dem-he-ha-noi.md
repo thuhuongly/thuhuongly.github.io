@@ -1,0 +1,6 @@
+---
+title:  "Đêm hè Hà Nội"
+date:   2019-03-11 22:13:38 +0200
+categories: blog
+---
+Tối nay đang ngồi ăn cơm tôi chợt nhớ về những đêm hè Hà Nội. Những ngày mà không khí oi bức, ngột ngạt, khi cái quạt điện cũ chỉ thổi ra toàn những cơn gió nóng. Cả nhà tôi xách chiếu lên sân thượng nằm ngủ. Gió hồ Tây thổi vào mát rượi. Thời đó chưa có nhiều nhà cao tầng. Thêm chút gió từ cái quạt con cóc bé tẹo màu xanh lá cũng đủ làm dịu đi cái oi bức của ngày thơ ấu đó. Hồi đó tầng thượng nhà tôi chưa có mái tôn, chưa lát nền. Tôi nằm trên cái nền gạch chống nóng lợn cợn nhìn ngắm cả một bầu trời đêm đầy sao lấp lánh. Cái cảm giác vừa sợ hãi, vừa tò mò, vừa thấy mình sao mà bé nhỏ. Tôi hay sợ ma, ngủ quên thì không sao chứ nếu thức giấc nửa đêm lại đòi xuống nhà. Ngày hôm nay đây những hình ảnh đó vẫn còn nguyên vẹn và rõ ràng trong kí ức của tôi. Có bố, có mẹ, có hôm có cả ông nội và chị gái tôi. Có bầu trời đen, có chùm sao người thợ săn. Có sự bình yên, có sự sợ hãi. Có may mắn và rất nhiều tình yêu thương nữa.

@@ -274,4 +274,34 @@ var store = [{
         "tags": [],
         "url": "/blog/2019/03/01/so.html",
         "teaser": null
+      },{
+        "title": "Buồn",
+        "excerpt":"Chiều nay mình có một nỗi buồn nhỏ. Nỗi buồn đó xuất hiện khi sếp gắt gỏng với mình về một vấn đề mà mình nghe chưa rõ nhưng đã láu táu trả lời. Lâu rồi mình không có một cảm giác như vậy. Nó là một nỗi buồn nhè...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/03/05/buon.html",
+        "teaser": null
+      },{
+        "title": "Chị đồng nghiệp Bắc Kinh",
+        "excerpt":"Tuần này nhóm mình có một chị đồng nghiệp từ Bắc Kinh qua công tác. Như mọi khi, mình luôn vui và háo hức khi nhóm có thêm người mới, đặc biệt là phụ nữ và đến từ châu Á. Chị hơn mình 10 tuổi, cao hơn mình một tẹo...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/03/06/hong-nho.html",
+        "teaser": null
+      },{
+        "title": "Đêm hè Hà Nội",
+        "excerpt":"Tối nay đang ngồi ăn cơm tôi chợt nhớ về những đêm hè Hà Nội. Những ngày mà không khí oi bức, ngột ngạt, khi cái quạt điện cũ chỉ thổi ra toàn những cơn gió nóng. Cả nhà tôi xách chiếu lên sân thượng nằm ngủ. Gió hồ Tây...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/03/11/dem-he-ha-noi.html",
+        "teaser": null
+      },{
+        "title": "Bác nông dân",
+        "excerpt":"Tòa nhà công ty tôi đang làm nằm tại một khu công nghiệp ở ngoại ô thành phố. Phía bên kia đường đối diện công ty là nhà của một bác nông dân. Mùa hè dọc hàng rào nhà bác là những cây hoa hướng dương, hoa oải hương, hoa...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/03/18/bac-nong-dan.html",
+        "teaser": null
+      },{
+        "title": "Quốc tế hạnh phúc",
+        "excerpt":"Hai hôm nay mình rất vui. Có cảm tưởng như trời đất vừa qua một cơn giông lớn mù mịt rồi sau đó mặt trời trở lại, mọi thứ quang đãng, tinh tươm và lấp lánh dưới nắng. Có nhiều thứ tạo nên niềm vui của mình. Tỉ dụ như...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/03/20/quoc-te-hanh-phuc.html",
+        "teaser": null
       }]
