@@ -162,7 +162,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Gạo, đậu, thịt, đậu, gạo",
-        "excerpt":"Gạo, đậu, thịt, đậu, gạo Đấy là cái câu tôi cứ lẩm nhẩm trong đầu khi ngồi gói bánh chưng mấy năm trước. Lẩm nhẩm để nhớ không quên. Tôi gói bánh chưng bằng khuôn. Quy trình là đặt lạt, đặt khuôn, xếp lá, đổ gạo, đổ đậu, cho thịt,...","categories": ["blog"],
+        "excerpt":"Đấy là cái câu tôi cứ lẩm nhẩm trong đầu khi ngồi gói bánh chưng mấy năm trước. Lẩm nhẩm để nhớ không quên. Tôi gói bánh chưng bằng khuôn. Quy trình là đặt lạt, đặt khuôn, xếp lá, đổ gạo, đổ đậu, cho thịt, đổ đậu rồi đổ gạo....","categories": ["blog"],
         "tags": [],
         "url": "/blog/2019/01/29/gao-dau-thit-dau-gao.html",
         "teaser": null
@@ -303,5 +303,29 @@ var store = [{
         "excerpt":"Hai hôm nay mình rất vui. Có cảm tưởng như trời đất vừa qua một cơn giông lớn mù mịt rồi sau đó mặt trời trở lại, mọi thứ quang đãng, tinh tươm và lấp lánh dưới nắng. Có nhiều thứ tạo nên niềm vui của mình. Tỉ dụ như...","categories": ["blog"],
         "tags": [],
         "url": "/blog/2019/03/20/quoc-te-hanh-phuc.html",
+        "teaser": null
+      },{
+        "title": "Sự có mặt của bông hoa",
+        "excerpt":"“Ý thức được những khổ đau do thái độ cuồng tín và thiếu bao dung gây ra, con xin nguyện thực tập để không bị vướng mắc vào bất cứ một chủ nghĩa nào, một lý thuyết nào, một ý thức hệ nào, kể cả những chủ thuyết Phật giáo....","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/03/21/su-co-mat-cua-mot-bong-hoa.html",
+        "teaser": null
+      },{
+        "title": "Nhặt rác",
+        "excerpt":"Sáng nay lúc đứng chờ xe buýt tôi thấy một cô đạp xe tiến lại, tay cô cầm một cái que kẹp rác và giỏ xe đạp của cô toàn rác. Cô tỉ mẩn nhặt từng thứ vứt vào cái thùng rác gần chỗ tôi đứng. Vỏ chai nhựa, lon...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/03/22/nhat-rac.html",
+        "teaser": null
+      },{
+        "title": "Bột sắn dây",
+        "excerpt":"Tháng 3 là mùa hoa sưa, mùa hoa bưởi, mùa bố mẹ dọn sân, cất hết mấy thùng bột sắn để chuyển sang công đoạn phơi bột, sấy bột khô và ướp hoa bưởi. Với tôi bột sắn không là cái thứ quà gì ngon đặc biệt. Lần nào xa...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/03/23/bot-san-day.html",
+        "teaser": null
+      },{
+        "title": "Mỗi người tôi gặp",
+        "excerpt":"Tối hôm đó tôi ngủ ở thiền đường. Tháng 5 ở Antwerp đã bắt đầu nắng ấm rồi và mấy ngày gần đây trời còn có lúc nắng nóng nên tôi mang rất ít đồ ấm theo. Vậy mà Paris lạnh quá. Tôi đi giày bệt nên cũng chẳng buồn...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/03/24/moi-nguoi-toi-gap.html",
         "teaser": null
       }]

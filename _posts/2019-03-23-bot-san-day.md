@@ -1,0 +1,11 @@
+---
+title:  "Bột sắn dây"
+date:   2019-03-23 22:13:38 +0200
+categories: blog
+---
+Tháng 3 là mùa hoa sưa, mùa hoa bưởi, mùa bố mẹ dọn sân, cất hết mấy thùng bột sắn để chuyển sang công đoạn phơi bột, sấy bột khô và ướp hoa bưởi.  
+Với tôi bột sắn không là cái thứ quà gì ngon đặc biệt. Lần nào xa nhà mẹ cũng muốn gói cho tôi mấy cân, tôi càu nhàu bảo nặng lắm mẹ ơi, mấy năm con có ăn hết một cân đâu chứ. Mẹ chỉ cười bảo thế để đem tặng bạn ăn cho quý. Tôi vâng dạ vì biết mẹ sẽ vui. Còn tôi, tôi chỉ mong mẹ bán được càng nhiều càng tốt.  
+Bố mẹ làm bột sắn lâu lắm rồi, tôi cũng không chắc là bao nhiêu năm. Để nuôi chị em tôi, để có chút để dành và như sau này mẹ nói rằng để có thể tự lo cho mình và hỗ trợ mọi người khi cần thiết.
+Mỗi năm bố mẹ và các cô chú trong nhà cùng nhau làm cả tấn sắn dây, có năm còn nhiều hơn nữa. Mọi công đoạn đều thủ công và tốn sức. Rửa sắn, cạo sắn, xay sắn, vắt bột, lọc bột, thay nước, phơi bột, sấy bột, ướp hoa bưởi. Cái công đoạn mà tôi cho là chán nhất đấy là nhặt cánh hoa bưởi. Bột sấy khô cùng cánh hoa khô lẫn trong đó, trưa nào mẹ cùng mấy cô cũng ngồi tỉ mẩn nhặt ra. Mẹ bảo nhiều người uống bột sắn họ không thích khoắng lên có cánh hoa khô nhưng nếu chỉ phủ cánh hoa trên mặt bột khi sấy thì hương hoa bưởi sẽ không thấm được. Những lúc ở nhà tôi chỉ thi thoảng ngồi giúp mẹ được một lúc là đã thấy tê chân, đau lưng rồi phàn nàn cái này có khác gì chuyện Tấm Cám đâu mẹ. Vậy mà mẹ cứ ngồi cặm cụi nhặt như vậy bao nhiêu năm nay.  
+Mỗi gói bột mẹ đóng chẳng có nhãn mác gì cũng chẳng có hạn sử dụng và tôi cho như thế là thiếu chuyên nghiệp lắm, làm như vậy thì sẽ ít người mua. Thế mà năm nào mẹ cũng hồ hởi bảo với tôi là bán hết rồi, có người còn mua cả chục cân đem đi biếu. Người ta cứ truyền tai nhau đến mua, mẹ cũng chẳng phải quảng cáo nhiều. Mỗi lần có khách gọi mua ngoài ngõ là tôi lại thấy sự hồi hởi và niềm vui trong đôi mắt mẹ khi chạy đi lấy bột cho khách.  
+Lần trước tôi về nhà có một cô vào mua bột sắn cô lo lắng bảo cô mua gửi đi nước ngoài, không biết bột trắng thế này người ta có nghi là heroin không nữa. Tôi cười hì hì bảo cháu vẫn mang suốt mà chưa lần nào bị khám đâu cô :smile:
