@@ -328,4 +328,46 @@ var store = [{
         "tags": [],
         "url": "/blog/2019/03/24/moi-nguoi-toi-gap.html",
         "teaser": null
+      },{
+        "title": "Khủng hoảng",
+        "excerpt":"Hôm qua có 3 đứa không bình thường ngồi nói chuyện đến quá nửa đêm. Có lúc chả đứa nào nói gì, ngồi yên lặng, có lúc thì một đứa độc thoại, 2 đứa còn lại ngồi nghe. Một đứa phàn nàn rằng nó đem tư tưởng, đem chánh niệm...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/03/28/khung-hoang.html",
+        "teaser": null
+      },{
+        "title": "Lần đầu tiên",
+        "excerpt":"Chắc chả ai còn nhớ nổi cái cảm giác lần đầu tiên mình bắt đầu đứng dậy và chập chững bước đi nó sung sướng như thế nào. Tôi cũng vậy. Giờ tôi chỉ nhớ mang máng cái cảm giác lần đầu tiên mình ngồi lên xe đạp và đạp...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/03/29/lan-dau-tien.html",
+        "teaser": null
+      },{
+        "title": "Bạn là một người tuyệt vời",
+        "excerpt":"Hôm qua tôi ngồi xem một cái clip có một bé gái đặt một mẩu giấy ghi “You’re amazing” vào balo của một bé gái khác đang ngồi gần đó với gương mặt buồn rười rượi. Mẩu giấy cứ thế truyền đi âm thầm từ người này sang người khác...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/04/02/ban-tuyet-voi.html",
+        "teaser": null
+      },{
+        "title": "Lạm dụng",
+        "excerpt":"Tôi biết một chị người Bỉ bị lạm dụng từ nhỏ, bởi chính người thân trong gia đình. Lớn lên chị không kết hôn và luôn sống trong cái kí ức đáng sợ đó. Nhưng có một chuyện tệ hơn đó là nỗi đau kia khiến chính chị trở thành...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/04/03/lam-dung.html",
+        "teaser": null
+      },{
+        "title": "Dưới gốc cây bồ đề",
+        "excerpt":"Đó là cây bồ đề ở trước cửa chùa Tĩnh Lâu ở ngoài hồ, ngay gần trường tiểu học của tôi. Cả tuổi thơ của tôi có biết bao kỉ niệm gắn liền quanh quẩn chỗ gốc cây đó. Những ngày trưa hè nắng gắt, người lớn đi làm, bọn...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/04/05/duoi-goc-cay-bo-de.html",
+        "teaser": null
+      },{
+        "title": "Cô tổ trưởng dân phố",
+        "excerpt":"Ở gần nhà tôi có một cô Tổ trưởng tổ dân phố. Cô năm nay chắc gần 60 tuổi và đã làm tổ trưởng từ rất lâu rồi, có khi đến hơn chục năm cũng nên. Gặp cô lúc nào cũng thấy cô cười, có lẽ vì răng cô trông...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/04/10/co-to-truong.html",
+        "teaser": null
+      },{
+        "title": "Lỗ đen và bầu trời",
+        "excerpt":"Sáng nay nhìn lên bầu trời xanh, tôi chợt nghĩ: chà, xa xôi đâu đó ngoài kia có một cái lỗ đen khổng lồ, thế là tự dưng những suy tư, ưu phiền nhỏ mọn bị nó hút đi đâu mất tiệt cả. Kì lạ thật.     ","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/04/12/lo-den.html",
+        "teaser": null
       }]

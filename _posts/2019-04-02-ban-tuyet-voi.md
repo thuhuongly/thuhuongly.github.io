@@ -1,0 +1,8 @@
+---
+title:  "Bạn là một người tuyệt vời"
+date:   2019-04-02 22:13:38 +0200
+categories: blog
+---
+Hôm qua tôi ngồi xem một cái clip có một bé gái đặt một mẩu giấy ghi "You're amazing" vào balo của một bé gái khác đang ngồi gần đó với gương mặt buồn rười rượi. Mẩu giấy cứ thế truyền đi âm thầm từ người này sang người khác và làm bừng sáng lên biết bao khuôn mặt. Chiều nay tôi chợt nghĩ giá bây giờ có ai nói thế với mình nhỉ. Khoan, xin bạn đừng hiểu lầm, tôi không phải đứa thích được khen lắm mặc dù nhiều lúc tôi biết tôi cũng hơi thiếu khiêm tốn. Sự thật là nếu bảo ngồi kể ra những điểm xấu xí của bản thân mình chắc tôi có thể ngồi viết được chục trang chứ không ít. Tôi nhiều lúc cư xử cũng tệ lắm và nếu vì ích kỉ mà tôi làm ai đó khổ thì tin tôi đi, tôi cũng khổ tâm không kém gì người đó đâu. Làm gì có ai cảm thấy tuyệt vời khi biết mình là người ích kỉ cơ chứ.  
+
+"Không tôi nào dám khinh ông, tôi tin ông rồi sẽ thành Phật" - đấy là câu nói của Bồ Tát Thường Bất Khinh mà mỗi lần nghĩ tới là tôi thấy cảm động lắm. Đó cũng là một trong những động lực để tôi viết ra những dòng này để nói với bạn - người đang đọc những dòng viết của tôi - rằng: "Bạn là một người tuyệt vời". Bạn có tin tôi không? Cứ thử nghĩ lại xem từ xưa tới giờ bạn đã mang lại niềm vui, làm cho bao nhiêu người mỉm cười rồi đúng không? Và bạn với những niềm tin tốt lành trong mình sẽ còn làm cho nhiều người khác mỉm cười nữa, trong hiện tại và trong cả tương lai nữa. Ngay bây giờ bạn cũng có thể nói với ai đó rằng với bạn họ tuyệt vời tới mức nào hoặc bạn cũng có thể nhìn vào gương nói với chính bản thân mình rằng: "Bạn là một người tuyệt vời"... như tôi dám nói :">
