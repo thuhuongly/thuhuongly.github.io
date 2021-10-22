@@ -1,0 +1,6 @@
+---
+title:  "Bồ công anh"
+date:   2019-04-19 22:13:38 +0200
+categories: blog
+---
+Có một điều mà tôi cho rằng mình vô cùng may mắn khi được làm việc ở đây đó là chỗ cửa sổ tôi ngồi làm việc nhìn ra một cánh rừng nhỏ. Trưa nay nắng lên, trời xanh không một gợn mây. Mấy thân cây trơ trụi ngày nào giờ đã ra đầy lá non tuy chưa đủ nhiều để che hết cả bầu trời phía sau nhưng cũng đủ làm xanh một khoảng lớn. Những ngày này hoa bồ công anh (mà sếp tôi bảo tiếng Hà Lan gọi là hoa "đi tè") nở rộ. Những chùm bông trắng nhỏ nhiều như mưa cứ theo gió bay rất cao và xa. Chúng nó bay đi đâu, tôi không biết và cũng không thể nào biết. Có chăng lúc này tôi đang nghĩ về câu chuyện Doremon đầu tiên tôi đọc, đó là câu chuyện về hoa bồ công anh. Câu chuyện về tình bạn chân thành của Nobita dành cho cây bồ công anh mọc sau nhà và tình yêu vô điều kiện của cây bồ công anh mẹ dành cho những bông bồ công anh con nhỏ bé, khi chúng khôn lớn đã để chúng tự do bay đi khắp nơi khám phá thế giới rộng lớn bao la này :relaxed:

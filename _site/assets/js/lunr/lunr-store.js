@@ -366,8 +366,44 @@ var store = [{
         "teaser": null
       },{
         "title": "Lỗ đen và bầu trời",
-        "excerpt":"Sáng nay nhìn lên bầu trời xanh, tôi chợt nghĩ: chà, xa xôi đâu đó ngoài kia có một cái lỗ đen khổng lồ, thế là tự dưng những suy tư, ưu phiền nhỏ mọn bị nó hút đi đâu mất tiệt cả. Kì lạ thật.     ","categories": ["blog"],
+        "excerpt":"Sáng nay nhìn lên bầu trời xanh, tôi chợt nghĩ: chà, xa xôi đâu đó ngoài kia có một cái lỗ đen khổng lồ, thế là tự dưng những suy tư, ưu phiền nhỏ mọn trong tôi bị nó hút đi đâu mất tiệt cả. Kì lạ thật.     ","categories": ["blog"],
         "tags": [],
         "url": "/blog/2019/04/12/lo-den.html",
+        "teaser": null
+      },{
+        "title": "Thế giới của người lớn",
+        "excerpt":"Từ hôm qua tới giờ tôi nhận được tin 2 đồng nghiệp sẽ nghỉ việc trong tháng tới, công ty cứ thế vắng dần những khuôn mặt quen. Những người đó đều khá giỏi và làm ở đây trên dưới 10 năm. Họ ra đi tìm một môi trường mới....","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/04/18/the-gioi-cua-nguoi-lon.html",
+        "teaser": null
+      },{
+        "title": "Bồ công anh",
+        "excerpt":"Có một điều mà tôi cho rằng mình vô cùng may mắn khi được làm việc ở đây đó là chỗ cửa sổ tôi ngồi làm việc nhìn ra một cánh rừng nhỏ. Trưa nay nắng lên, trời xanh không một gợn mây. Mấy thân cây trơ trụi ngày nào...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/04/19/bo-cong-anh.html",
+        "teaser": null
+      },{
+        "title": "Vẻ đẹp của sự từ bi",
+        "excerpt":"Đó là cái vẻ đẹp mà không phải do đi chỉnh sửa hay đi phẫu thuật thẩm mỹ mà người ta có được. Đó là vẻ đẹp toát lên từ bên trong, bạn biết rồi đúng không? Hồi tôi còn nhỏ, mẹ biết tôi hay tự ti về nước da...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/04/22/ve-dep-cua-su-tu-bi.html",
+        "teaser": null
+      },{
+        "title": "Kí ức tuổi thơ",
+        "excerpt":"Có một thời Hồ Tây rộng hơn bây giờ rất nhiều. Rồi người ta đem cát đến đổ lấp đi một phần hồ. Bãi cát san phẳng đó bỗng nhiên trở thành thiên đường đối với bọn trẻ con chúng tôi. Đấy là nơi chúng tôi chơi đá bóng, nặn...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/05/03/ki-uc-tuoi-tho.html",
+        "teaser": null
+      },{
+        "title": "Tưới hoa",
+        "excerpt":"Ở Làng Mai có một pháp môn tu tập có tên là “Tưới hoa”, tưới hoa tức là tưới tẩm những hạt giống tốt đẹp nơi một người nào đó, người đó có thể là người yêu, là vợ/chồng, là con cái hay bạn bè, đồng nghiệp… Tôi nhớ có...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/05/06/tuoi-hoa.html",
+        "teaser": null
+      },{
+        "title": "Nương tựa",
+        "excerpt":"Có những lúc bạn thấy quá đuối với những tính toán, bon chen, xích mích, hiểu lầm, khó khăn bên ngoài cuộc đời, bạn chỉ mong muốn trở về nhà ngay lúc đó. Ở nhà có người thương của bạn, người bạn có thể trông cậy và tìm kiếm sự...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/05/08/nuong-tua.html",
         "teaser": null
       }]
