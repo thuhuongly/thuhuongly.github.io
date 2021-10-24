@@ -406,4 +406,52 @@ var store = [{
         "tags": [],
         "url": "/blog/2019/05/08/nuong-tua.html",
         "teaser": null
+      },{
+        "title": "Chuyện về Pete",
+        "excerpt":"Hôm đó tôi ngồi nói chuyện với Pete. Pete mới trở về Bỉ được 2 tháng sau 2 năm sống ở Việt Nam. Giờ Pete làm giáo viên dạy Hóa, Sinh cho học sinh cấp 2 ở Bỉ. Cậu tốt nghiệp cao đẳng kế toán. Từ năm 15 tuổi Pete...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/05/18/pete.html",
+        "teaser": null
+      },{
+        "title": "Bức thư của một ông bố người Bỉ",
+        "excerpt":"Bố đã gặp mẹ con như thế nào Chào con trai của bố, để hôm nay bố kể cho con nghe câu chuyện của bố và mẹ nhé. Hơn 22 năm trước, bố gặp mẹ trong một dàn đồng ca. Đó là một dàn đồng ca giống như dàn đồng...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/05/20/thu-cua-bo-bi.html",
+        "teaser": null
+      },{
+        "title": "Ăn trong yên lặng và bình an",
+        "excerpt":"“Em có thể yên lặng một lúc được không. Em nói nhiều thế thì chị không tập trung vào món ăn được.” Tôi đứng hình vài giây. Đó là chuyện xảy ra khoảng tầm 4 năm trước khi tôi mời một người bạn Bỉ đến ăn cơm ở ký túc...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/05/27/an-trong-yen-lang.html",
+        "teaser": null
+      },{
+        "title": "Sự đổ lỗi và tình thương",
+        "excerpt":"Đối với tôi việc thức dậy vào sáng thứ 2 và sáng thứ 3 luôn luôn là một sự khó khăn. Dĩ nhiên tôi vẫn dậy, ăn sáng, sửa soạn đồ ăn trưa, vẫn có mặt và làm việc ở công ty như bình thường, vẫn vui vẻ với mọi...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/05/27/su-do-loi-va-tinh-thuong.html",
+        "teaser": null
+      },{
+        "title": "Phố đèn đỏ",
+        "excerpt":"Tôi cắm cúi đi trên khu phố đèn đỏ của Antwerp lúc nửa đêm. Tôi không ngẩng mặt lên mà thi thoảng chỉ dám liếc nhìn những cô gái trẻ đằng sau những ô cửa kính. Có những cô gái rất trẻ, có những cô nhìn gần như không mặc...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/06/01/pho-den-do.html",
+        "teaser": null
+      },{
+        "title": "Slogan of the young me",
+        "excerpt":"Remember the days when I was 11-12 years old, after taking a shower, I always stood in front of the mirror in the bathroom which was blurred by the mist. I wrote 2 lines on the mirror: “If I want, I will win. I will win if I want.” Those...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/06/05/slogan.html",
+        "teaser": null
+      },{
+        "title": "Khổ",
+        "excerpt":"“…Trong đạo Phật, ở đây thoát khổ không có nghĩa là trốn khổ mà là trong khổ hay vui ta đều thấu hiểu nó và có trạng thái tâm lý bình an, không đau đớn. Thoát khổ không phải trốn thoát mà ở trong đó mà vẫn cảm thấy bình...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/06/08/kho.html",
+        "teaser": null
+      },{
+        "title": "Chào buổi sáng",
+        "excerpt":"4h55 sáng, tôi mở mắt, lâu rồi tôi không thấy mình tỉnh sớm như thế. Bình thường việc thức dậy hàng ngày lúc 6h20 sáng đối với tôi là một việc khó khăn. Mùa hè mặt trời mọc sớm, tôi ra ngồi trước cửa sổ, chỗ tôi hay ngồi thiền...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2019/06/10/chao-buoi-sang.html",
+        "teaser": null
       }]
