@@ -1,0 +1,9 @@
+---
+title:  "Các bạn nhỏ"
+date:   2019-06-30 22:13:38 +0200
+categories: blog
+---
+Bạn tôi sắp 31 tuổi bảo với tôi rằng nhiều lúc bạn có cảm tưởng mình mới 17-18 tuổi thôi. Tôi bảo bạn thế thì tốt quá, tôi cũng chỉ mong sao cho mình giữ được cái sự hồn nhiên, vô tư của cái thời trẻ đấy thôi, thậm chí là trẻ hơn nữa cũng được.  
+Tôi rất thích chơi với mấy bạn nhỏ, càng nhỏ càng tốt. Có lần tôi ngồi ở bãi cát với mấy bạn từ 2 đến 6 tuổi, một bạn bé tầm 3-4 tuổi từ đâu chạy đến. Bạn say sưa kể cho tôi bằng tiếng Hà Lan dù tôi chỉ hiểu bập bõm. Tôi cứ gật gù còn bạn thì có vẻ như lâu mới có người nghe bạn kể chuyện thì phải nên bạn cứ nói hào hứng lắm.
+Chiều nay tôi gặp một bạn bé khác, bạn mới có hơn 1 tuổi rưỡi một tẹo thôi mà bạn làm tôi ngạc nhiên lắm. Lúc ngồi ở ghế bạn chỉ cho tôi ra hướng giá sách, mẹ bạn tưởng bạn muốn khoe với tôi cái tranh vẽ trong chai của bạn. Rồi bạn ra hiệu cho tôi bế bạn ra giá sách, bạn không muốn lấy cái chai, mà chỉ cái hộp gỗ nhỏ. Tôi hỏi bạn muốn lấy hộp gỗ à, bạn lắc đầu, hóa ra dưới hộp gỗ là cuốn sách nhỏ của Thầy mà tôi mang tới nhà bạn hơn 1 tháng trước...  
+Các bạn trẻ con nhiều lúc nói rất nhiều và nhiều lúc chẳng nói gì nhưng thi thoảng được ở gần các bạn tôi thấy hạnh phúc lắm. Đôi lúc các bạn ăn vạ, mè nheo là vì các bạn muốn được quan tâm thêm, được chơi thêm hay là các bạn ốm mệt thôi. Các bạn bé vậy nhưng tình cảm thì nhiều lắm, cái thứ tình cảm bột phát không đắn đo mà nhiều khi làm tôi cảm động vô cùng. Tôi chỉ mong sao các bạn lớn của tôi có đủ bình an và thời gian cho các bạn nhỏ của mình vì biết đâu các bạn lại tìm thấy chính mình trong đấy :blush:
