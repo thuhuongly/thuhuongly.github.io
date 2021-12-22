@@ -1,0 +1,6 @@
+---
+title:  "Sao lại không"
+date:   2019-11-15 22:13:38 +0200
+categories: blog
+---
+Nếu bạn đã chán đọc Facebook hay mệt mỏi với sách khoa học, giáo dục hay tư duy tích cực các kiểu, bạn hãy thử đọc quyển "Vương quốc của những người khùng" (Ivan the Fool) hay "Một người cần bao nhiêu ruộng đất?" (How Much Land Does a Man Need?) của Leo Tolstoy. Đó là hai truyện ngắn (hay gọi là cổ tích cũng được) mà tôi thích vô cùng. Ở quyển thứ nhất, anh Ivan hay Y Văn (theo bản dịch tiếng Việt của Yên Chi) bị coi là khùng, thế mà anh lên làm vua, vua của một đất nước không có chính trị, quân sự và tiền. Tôi đọc bản dịch tiếng Việt và rất khoái cái câu “Sao lại không? Phật độ cho mày.” mà Y Văn nói với mấy con tiểu quỷ dù cho chúng nó tìm đủ cách phá anh hết lần này đến lần khác. Ở quyển thứ 2 tôi đọc bản dịch tiếng Anh, quyển sách mỏng nhỏ bằng lòng bàn tay, bạn chỉ cần đọc một lèo là hết. Câu chuyện về một anh nông dân tên là Pahom, Pahom nghĩ nếu anh thật giàu có, có thật nhiều đất thì không có gì trên đời có thể làm anh sợ được sất, kể cả Ma Vương. Kết cục của câu chuyện có thể khiến bạn bất ngờ (như tôi), có thể không, nhưng nó có thể làm cho bạn nhớ lâu ra phết, tôi tin là thế. Vậy cuối tuần này rảnh, bạn cần một cái gì đó đọc cho vui, bạn thử tìm hai cuốn trên đọc nhé. "Sao lại không? Phật độ cho bạn" :blush:

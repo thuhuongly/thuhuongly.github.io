@@ -1,0 +1,16 @@
+---
+title: "Tình người"
+date: 2021-12-21 22:13:38 +0200
+categories: blog
+---
+Cũng vào một ngày mùa đông hơn 26 năm về trước, lúc đó tôi mới 5 tuổi rưỡi và vừa mới chập chững bước vào lớp 1.  
+Vì nhà nghèo nên tôi không được đi học mẫu giáo như các bạn, nhưng mẹ cũng gắng thu xếp cho tôi theo một lớp vỡ lòng trước khi đi học chính thức. 5 tuổi rưỡi, cái tuổi vẫn còn ham chơi, ham ngủ thì việc theo một nề nếp, giờ giấc nào đó vẫn là quá khó với tôi. Học kỳ một của năm học đầu đời đã bắt đầu được mấy tháng mà tôi vẫn còn ngủ quên. Bình thường lớp học bắt đầu 10h sáng, hoặc là ông nội, hoặc là bố sẽ đưa tôi đến trường. Hôm đó bố đi làm còn ông thì quên không đánh thức tôi dậy, lúc tôi tỉnh ngủ thì đã gần 10h rồi. Sáng hôm đó là một sáng hiếm hoi mẹ tôi có mặt ở nhà, tôi cuống cuồng vơ sách bút rồi lên xe đạp để mẹ chở đến trường.  
+Đến nơi, cái cổng trường lớn đã đóng nhưng vẫn còn cái cổng ngách nhỏ cho mấy đứa đi học muộn kịp vào. Tôi xuống xe, chào mẹ rồi đeo cặp chạy vào lớp.  
+Vừa chạy qua cái cổng thì tôi nhớ ra cô giáo dặn hôm nay tôi phải đóng tiền học phí: 10 nghìn đồng và hôm nay là hạn cuối cùng. Tôi chạy ngược ra khỏi trường với hi vọng đuổi kịp theo mẹ để xin tiền đóng học. Nhưng ôi thôi, mẹ tôi đi xe đạp còn tôi thì chạy bộ. Với chiều cao 1 mét mốt và cái cặp sách trĩu nặng trên vai, tôi không thể đuổi kịp mẹ và mẹ cũng không nghe thấy tiếng tôi gọi. Gió mùa đông rét buốt cắt vào má còn tôi thì toát mồ hôi vì chạy và vì sợ, sợ nộp tiền muộn sẽ bị cô giáo phạt.  
+Tôi nhớ mình chạy được một đoạn thì “huỵch”, tôi vấp ngã thẳng xuống đường. Hai bàn tay bé đau rát vì đập xuống mặt đường nhựa còn cái cặp sách đè lên lưng. Tôi còn nhớ hôm đó mình mặc một cái áo dạ đỏ, cổ lông trắng chấm bi xin lại từ đứa em họ.  
+Đó là một cú ngã đau và tuyệt vọng, tôi cứ thế nằm đó khóc luôn tại chỗ. Con đường nhựa 10 giờ sáng vắng hoe không một bóng người.  
+Vài phút sau, tôi thấy một chiếc xe đạp mini đỏ đỗ lại bên cạnh tôi, một cô rất trẻ và xinh cúi xuống hỏi: “Bố mẹ con đâu, làm sao con khóc?” (cứ như Bụt vậy). Tôi vừa khóc vừa kể lể sự tình. Cô đỡ tôi dậy và bảo: “Nín đi con, lên xe cô chở vào lớp, con học lớp nào, cô sẽ xin phép cô giáo con cho.”
+Tôi nghe lời cô trèo lên xe đạp, cô chở tôi quay lại, qua cổng trường vào tận cửa lớp (vì cô cũng là một cô giáo). Cô nhấc tôi xuống xe rồi cất tiếng gọi cô chủ nhiệm của tôi: “Liên ơi, ra đón học sinh của em này. Con bé quên tiền học phí, em cho nó mai đóng nhé.”  
+Cô giáo lớp 1 của tôi rất trẻ và hiền hơn các cô giáo lớp 1 khác mà tôi biết sau này rất nhiều, cô ngạc nhiên rồi ra dắt tôi vào lớp. Tôi lí nhí chào cô giáo với chiếc xe mini đỏ. Dù cùng trường nhưng cô dạy cấp 2 và với trí nhớ của 1 đứa bé 5 tuổi rưỡi thì tôi về sau không biết cô là ai nữa. Tôi chỉ nhớ cô rất đẹp.  
+Những ngày tháng sau đó thi thoảng cô lại xuất hiện trong những bài tập làm văn về người tốt, việc tốt, “về một ân nhân em đã gặp” mà tôi phải viết suốt hồi cấp 1 và cấp 2.  
+Cuộc gặp gỡ tình cờ và ngắn ngủi của một đứa trẻ con nhưng cho đến giờ vẫn in dấu trong tâm thức tôi cho đến tận 26 năm sau, vào một buổi sáng mùa đông nghĩ lại vẫn thấy ấm áp tình người.

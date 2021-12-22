@@ -1,0 +1,9 @@
+---
+title:  "Tự do, lãng mạn và hài hước"
+date:   2019-10-22 22:13:38 +0200
+categories: blog
+---
+Tôi nhớ Hà Nội một ngày cuối tháng 7, trời xầm xì chuẩn bị mưa to, tôi ngồi uống cốc sữa dừa bạc hà cạnh ban công của Cộng cà phê cùng với một đứa em "bé bỏng". Giờ tan tầm, đường ven Hồ Tây chật như nêm, vỉa hè bị đào ngổn ngang cùng với những cây hoa sữa đã bị cắt trụi cành đang chờ chuyển tới một bãi rác nào đó để trồng cho đỡ hôi. Tôi kể lể với đứa em về những dự định và trăn trở, em bảo với tôi rằng: "Cho tới giờ em vẫn chưa thấy thất vọng về chị." Tôi nhớ đến tận hôm nay. Đó cũng là cậu em hỏi tôi đi học để làm gì và tôi nhớ đã nói với em rằng tôi muốn học làm người tự do. Gần đây tôi phát hiện ra rằng những người thích tự do là những người lãng mạn. Tôi không biết mình có thuộc nhóm đó không nhưng đôi lúc các bạn tôi cho rằng tôi hơi bị "ngáo". Cũng có đứa em nói tôi rằng tôi giống Sư phụ trong phim Tây Du Ký, là nhân vật mà các fan muốn cho ăn đập nhất :v. Tôi chỉ cười.  
+---------------------  
+Mấy hôm nay tôi lướt facebook rất nhiều, lòng tôi cứ như cái ly nước đục bị ai khoắng không ngừng nghỉ. Tôi đọc đủ thứ thập cẩm, đôi lúc muốn nói mà không biết nói gì. Tôi nhớ Thầy bảo những người nghiện game là những người không tìm thấy cái gì hay hơn, thú vị hơn để làm. Có lẽ tôi cũng vậy. Có những lúc vài phút tôi lại kiểm tra tin nhắn, kiểm tra hòm thư. Tôi chờ đợi cái gì, chờ đợi ai để làm cuộc sống của tôi thú vị hơn chăng?  
+Tối nay tôi lại ngồi xem facebook, tôi nhận ra rằng những người hài hước lại là những người lãng mạn. Cái cốc nước đang bị khuấy bỗng dưng dừng lại và tôi thấy tôi ngồi viết những dòng này, không lãng mạn, cũng không hài hước cũng như cuộc sống có ngày buồn, có ngày vui mà cũng có những ngày chả buồn cũng chả vui mà chỉ đơn giản đó là một ngày. Bạn liệu có đang chờ đợi như tôi?

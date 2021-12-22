@@ -1,0 +1,9 @@
+---
+title:  "Mùa trung thu "
+date:   2019-09-11 22:13:38 +0200
+categories: blog
+---
+Mùa trung thu của bọn trẻ con trong ngõ mình bắt đầu từ trước nửa tháng. Cả bọn sẽ thi nhau tạo những cái đèn lồng từ các loại hộp nhựa, vỏ bưởi, lon coca... Đèn của mình thường làm từ cái hộp xà phòng giặt, bố bỏ cái quai nhựa đi rồi xâu dây đồng buộc vào cái đũa. Mình sẽ dùng mấy cái tờ giấy bóng kính gói quà đem cắt ra đủ hình hoa lá, nơ, hộp quà, ông già Noel rồi dán lên, hoặc có khi bố khoét hình sao, hình trăng... lên cái hộp. Năm 8 tuổi bố làm cho mình một cái đèn đặc biệt, thay vì một hộp xà phòng bố úp hai hộp gắn vào với nhau, hẳn là cái đèn hai tầng. Mình tự hào lắm vì cái đèn của mình to nhất hội, cắm được cái nến siêu dài.  
+Một tuần trước trung thu là bọn trẻ con từ lớn tới bé sẽ đi rước đèn vòng quanh từ làng Hồ sang làng Đông. Năm đó mình mới quen Mai mốc nên cho nó nhập bọn, mình nhớ nhà nó có điều kiện nên mua cho cái đèn lồng điện thì phải (dù sao cũng không thể ăn thua với đèn handmade của mình). Ngày rước đèn đầu tiên cả hội đi qua cái ngõ mà mình vẫn nghĩ là cái ngõ nhỏ nhất hành tinh, Mai mốc bị thụt một chân xuống cống, rơi mất chiếc dép xốp yêu thích của nó. Cả lũ tán loạn chụm đèn vào để mò. Cái cống đang làm dở vừa hôi vừa đen ngòm, rút cục chả ai tìm lại được chiếc dép cho Mai mốc. Cả lũ trẻ con hồi đó vừa sợ vừa buồn cười.  
+Đến ngày trung thu hội rước đèn sẽ họp lại một sân thượng mang theo nến, bánh trung thu thập cẩm, hồng ngâm chát xít, bưởi he và chua đến để phá cỗ. Mình nhớ mình chỉ thích ăn nhất lạp xưởng hay ruốc trong nhân thập cẩm và chơi cái trò làm nến các hình hay đốt xâu hạt bưởi nổ lách chách. Đêm trung thu trăng tròn và sáng lắm, gió cũng không còn hầm hập nóng như mùa hè.  
+Cái đêm trung thu tưng bừng của tuổi nhỏ ngỡ như quên rồi mà hoá ra vẫn còn đấy để một hôm ngồi nhớ lại, để mà buồn cười để mà vui :smile:  
